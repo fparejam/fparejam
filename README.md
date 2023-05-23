@@ -11,7 +11,7 @@
 ###
 
 
-👨🏻‍💻 Currently developing Fullstack Software solutions at <a href="https://www.bcg.com/x">BCG X</a>
+👨🏻‍💻 Currently developing Fullstack Software solutions at <a href="https://www.bcg.com/x">BCG X</a><br>
 🔶 Ex Amazon <br>
 🖥️ <a href="https://www.fparejam.com/">My website</a><br>
 🔵 <a href="https://www.linkedin.com/in/fparejam/">LinkedIn</a><br><br>
