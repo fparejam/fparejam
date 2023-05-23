@@ -10,7 +10,17 @@
 
 ###
 
-<p align="left">👨🏻‍💻 Currently developing Fullstack Software solutions at [BCG X](https://www.bcg.com/x)<br>🔶 Ex Amazon <br>🖥️ [My website](https://www.fparejam.com/)<br>🔵 [LinkedIn](https://www.linkedin.com/in/fparejam/)<br><br>⚡️ I'm currently building simple recommendation systems <br>📚 Working towards getting AWS Certified on 2023 😃<br>📡 Interested in Data Science and ML solutions<br>🎯 Goals: not to break prod anytime soon<br>🎲 Fun fact: did you know that Python 🐍 programmers  wear glasses because they don't C#?</p>
+<p align="left">
+👨🏻‍💻 Currently developing Fullstack Software solutions at <a href="https://www.bcg.com/x">BCG X</a></p>
+🔶 Ex Amazon <br>
+🖥️ <a href="https://www.fparejam.com/">My website</a><br>
+🔵 <a href="https://www.linkedin.com/in/fparejam/">LinkedIn</a><br><br>
+⚡️ I'm currently building simple recommendation systems <br>
+📚 Working towards getting AWS Certified on 2023 😃<br>
+📡 Interested in Data Science and ML solutions<br>
+🎯 Goals: not to break prod anytime soon<br>
+🎲 Fun fact: did you know that Python 🐍 programmers wear glasses because they don't C#?</p>
+
 
 ###
 
