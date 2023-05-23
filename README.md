@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm Fernando Pareja and I'm a Software Engineer with DS/ML experience based in Madrid, Spain.</p>
+<p align="left">I'm Fernando Pareja, a Software Engineer with DS/ML experience based in Madrid, Spain.</p>
 
 ###
 
