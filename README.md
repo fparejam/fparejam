@@ -19,7 +19,6 @@
 📚 Working towards getting AWS Certified on 2023 😃<br>
 📡 Interested in Data Science and ML solutions<br>
 🎯 Goals: not to break prod anytime soon<br>
-🎲 Fun fact: did you know that Python 🐍 programmers wear glasses because they don't C#?</p>
 
 
 ###
