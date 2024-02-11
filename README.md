@@ -15,8 +15,8 @@
 🔶 Ex Amazon <br>
 🖥️ <a href="https://www.fparejam.com/">My website</a><br>
 🔵 <a href="https://www.linkedin.com/in/fparejam/">LinkedIn</a><br><br>
-⚡️ I'm currently learning about simple recommendation systems <br>
-📚 Working towards getting AWS Certified on 2023 😃<br>
+⚡️ I'm currently building a side project,  LLM powered app... stay tuned 😉 <br>
+📚 Working towards getting Cloud Certified <br>
 📡 Interested in Data Science and ML solutions<br>
 🎯 Goals: not to break prod anytime soon<br>
 
